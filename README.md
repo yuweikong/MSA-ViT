@@ -13,11 +13,14 @@ This research introduces a new deep learning (DL) framework, multi-head self-att
 If you use MSA-ViT in an academic work, please cite:
 
 ```
-@article{Yan2025,
-  title={A Modified Hierarchical Vision Transformer for  Soil Moisture  Retrieval From CyGNSS Data},
+@article{yan2026modified,
+  title={A Modified hierarchical vision transformer for soil moisture retrieval from CYGNSS data},
   author={Yan, Qingyun and Chen, Yuhan and Pan, Yuanjin and Jin, Shuanggen and Huang, Weimin},
   journal={Water Resources Research},
-  year={2025},
-  publisher={AGU}
+  volume={62},
+  number={1},
+  pages={e2024WR039476},
+  year={2026},
+  publisher={Wiley Online Library}
 }
 ``` -->
