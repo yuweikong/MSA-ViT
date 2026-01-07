@@ -1,4 +1,4 @@
-# MFDA
+# SMViT
 This is the official pytorch implementation of [A Modified Hierarchical Vision Transformer for  Soil Moisture  Retrieval From CyGNSS Data] (Water Resources Research). 
 
 The current version supports Python>=3.10, CUDA>=11.8.0 and PyTorch>=2.0, but it should work fine with lower versions of CUDA and PyTorch. 
