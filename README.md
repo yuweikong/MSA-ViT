@@ -25,4 +25,4 @@ If you use MSA-ViT in an academic work, please cite:
   year={2026},
   publisher={Wiley Online Library}
 }
-``` -->
+``` 
